@@ -11,4 +11,4 @@ def get_ip_address():
 # Call the function to get and print the IP address
 get_ip_address()
 
-#past this in a python window
+#paste python clickifuhaveaopinon.py in cmd
